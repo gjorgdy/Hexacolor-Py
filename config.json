@@ -1,0 +1,81 @@
+{
+    "version": "1.0",
+    "devices": {
+        "b5ff59af43d6c3572a41d7693b5bec1c": {
+            "model": "VENGEANCE RGB PRO",
+            "led_count": 10,
+            "height": 20,
+            "width": 10,
+            "left": 5,
+            "top": 5
+        },
+        "3192efa109cfb5d86f09a82a7cc00c5d": {
+            "model": "VENGEANCE RGB PRO",
+            "led_count": 10,
+            "height": 20,
+            "width": 10,
+            "left": 15,
+            "top": 5
+        },
+        "43439a02cd4aa751ca5bbae909e9483c": {
+            "model": "VENGEANCE RGB PRO",
+            "led_count": 10,
+            "height": 20,
+            "width": 10,
+            "left": 25,
+            "top": 5
+        },
+        "ce4097532a4ede5dbcebe15fd50ec8cb": {
+            "model": "VENGEANCE RGB PRO",
+            "led_count": 10,
+            "height": 20,
+            "width": 10,
+            "left": 35,
+            "top": 5
+        },
+        "b26bbaa165c07080e2d6c50761f508c0": {
+            "model": "Lighting Node CORE",
+            "led_count": 40,
+            "height": 80,
+            "width": 80,
+            "left": 10,
+            "top": 10
+        },
+        "d818e33f1fbf4dd6898efefcf62c0cc3": {
+            "model": "K60 RGB PRO",
+            "led_count": 104,
+            "height": 80,
+            "width": 80,
+            "left": 10,
+            "top": 10
+        },
+        "26f4845f4b2fa85ccec6a33ca2a68f4d": {
+            "model": "HS80",
+            "led_count": 1,
+            "height": 100,
+            "width": 100,
+            "left": 0,
+            "top": 0
+        },
+        "2bfdc2a1a6577ff97266add5c091c791": {
+            "model": "HARPOON RGB WIRELESS",
+            "led_count": 1,
+            "height": 10,
+            "width": 10,
+            "left": 85,
+            "top": 85
+        },
+        "ccdf40940a5af98ef1539908d3d0c884": {
+            "model": "ASUS Motherboard",
+            "led_count": 4,
+            "height": 10,
+            "width": 50,
+            "left": 25,
+            "top": 85
+        }
+    },
+    "canvas": {
+        "monitor": 1,
+        "ratio": null
+    }
+}
